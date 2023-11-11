@@ -1,4 +1,4 @@
-This Python script runs a simulation of the "Monty Hall Problem" as many times as the user wishes (Argument N). It will print out the number of winners, losers, and stats for each into the console.
+This Python script runs a simulation of the "Monty Hall Problem" as many times as the user wishes (N). It will print out the number of winners, losers, and stats for each into the console.
 
 From Wikipedia: 
 "The problem was originally posed (and solved) in a letter by Steve Selvin to the American Statistician in 1975. It became famous as a question from reader Craig F. Whitaker's letter quoted in Marilyn vos Savant's "Ask Marilyn" column in Parade magazine in 1990:
